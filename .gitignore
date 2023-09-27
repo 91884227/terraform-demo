@@ -1,6 +1,9 @@
 #Ignore GCP SVC Key
 gcp-example/anthoslab-393401-3ea8ca4b821a.json
 
+#Ignore kubeconfig
+k8s-example/ocp-kubeconfig
+
 # Local .terraform directories
 **/.terraform/*
 
