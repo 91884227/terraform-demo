@@ -1,8 +1,3 @@
-variable "region" {
-  
-}
-
-
 variable "aws_access_key" {
   
 }
